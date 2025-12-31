@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a student of Chemical Engineering, with a minor in Data Science, which has allowed me to develop a strong foundation in both engineering principles and data-driven decision-making. I have a deep interest in problem-solving, and I enjoy tackling data structures and algorithms (DSA) problems and puzzles that challenge my logical thinking.<br><br>Apart from that, I’m passionate about Machine Learning and Finance, particularly in how data can be leveraged to forecast trends and make smarter decisions in the financial sector. I also enjoy using tools like Excel and SQL to analyze data and build models that drive insights.
+I’m currently a final year Chemical Engineering student at IIT Bombay, with a minor in Data Science, which has allowed me to develop a strong foundation in both engineering principles and data-driven decision-making. I have a deep interest in problem-solving, and I enjoy tackling data structures and algorithms (DSA) problems and puzzles that challenge my logical thinking.<br><br>Apart from that, I’m passionate about Machine Learning and Finance, particularly in how data can be leveraged to forecast trends and make smarter decisions in the financial sector. I also enjoy using tools like Excel and SQL to analyze data and build models that drive insights. Currently focused on AI agents, LangChain, FastAPI, and containerized deployments.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@ I’m currently a student of Chemical Engineering, with a minor in Data Science,
 ![](https://github-readme-stats.vercel.app/api?username=aniketbhoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aniketbhoy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbhoy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aniketbhoy&icon=0&color=0)](https://visitcount.itsvg.in)
